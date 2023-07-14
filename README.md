@@ -9,7 +9,7 @@
 1. Make sure you have a compiler for C programs. Some popular compilers include GCC, Clang, and Microsoft Visual C++.
 2. Clone the repo.
 3. `cd` into the respective directory.
-4. Compile the code `gcc cs-50-hello hello.c`.
+4. Compile the code `gcc hello hello.c`.
 5. Start the program `./hello`
 
 ### Implementation Details
